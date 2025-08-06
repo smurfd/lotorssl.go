@@ -1,5 +1,4 @@
-<p>"[o.o]"<br>
-   "<br>
+
+"[o„o]"<br>
 Run<br>
-</p>
 `go run lotorssl/main.go`
